@@ -2,6 +2,6 @@
 
 ## Charla-Taller
 
-Holi............
+Holi...........
 
  Sesion de github
